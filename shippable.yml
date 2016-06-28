@@ -25,6 +25,6 @@ build:
 
 integrations:
   hub:
-    - integrationName: ship-docker
+    - integrationName: shipdock
       type: docker
       
