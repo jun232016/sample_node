@@ -28,7 +28,7 @@ integrations:
     - integrationName: shipdock
       type: docker
       
-    notifications:
+  notifications:
     - integrationName: email
       type: email
       recipients: 
